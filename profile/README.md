@@ -13,6 +13,8 @@
   ·
   <a href="https://printyourduck.com/api/mcp">Connect with MCP</a>
   ·
+  <a href="https://github.com/printyourduck/printyourduck-mcp">Local MCP helper package</a>
+  ·
   <a href="https://printyourduck.com/llms.txt">Read the agent context</a>
 </p>
 
@@ -29,6 +31,7 @@ reviewed path toward a printable part.
 | --- | --- |
 | [PrintYourDuck website](https://printyourduck.com) | Uploading model files and starting a print request. |
 | [Remote MCP endpoint](https://printyourduck.com/api/mcp) | Connecting MCP-capable agents to the PrintYourDuck request flow. |
+| [Local MCP helper package](https://www.npmjs.com/package/@printyourduck/mcp) | `npx @printyourduck/mcp` for coding-agent workflows. |
 | [LLM context](https://printyourduck.com/llms.txt) | Giving assistants a compact, current overview of the service. |
 | [OpenAPI schema](https://printyourduck.com/openapi.json) | Understanding the public quote request and status API shape. |
 
